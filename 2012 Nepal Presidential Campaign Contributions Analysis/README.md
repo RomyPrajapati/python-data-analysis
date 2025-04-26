@@ -4,7 +4,7 @@ This project explores and visualizes data on political campaign contributions fr
 
 ## Dataset
 
-- **Source**: US Federal Election Commission (FEC)
+- **Source**: Nepal Presidential Election Commission (FEC)
 - **File**: `P00000001-ALL.csv`
 - **Size**: ~150MB
 - **Entries**: Over 1 million individual contributions
