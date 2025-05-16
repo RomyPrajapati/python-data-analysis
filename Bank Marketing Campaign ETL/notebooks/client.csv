@@ -1,0 +1,10 @@
+client_id,age,job,marital,education,credit_default,mortgage
+1,30,admin_,married,primary_,False,True
+2,35,blue_collar,single,secondary_,True,False
+3,40,technician,divorced,tertiary_,False,True
+4,45,services,married,,False,False
+5,50,management,single,primary_,False,True
+6,55,retired,divorced,secondary_,True,False
+7,60,entrepreneur,married,tertiary_,False,True
+8,65,self_employed,single,,False,False
+9,70,unknown,divorced,primary_,False,True

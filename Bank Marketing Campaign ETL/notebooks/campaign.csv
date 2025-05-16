@@ -1,0 +1,10 @@
+client_id,campaign,campaign_contacts,previous_outcome,campaign_outcome,last_contact_date
+1,1,1,True,True,2022-01-01
+2,2,2,False,False,2022-02-02
+3,3,3,False,True,2022-03-03
+4,4,4,True,False,2022-04-04
+5,5,5,False,True,2022-05-05
+6,6,6,False,False,2022-06-06
+7,7,7,True,True,2022-07-07
+8,8,8,False,False,2022-08-08
+9,9,9,False,True,2022-09-09
